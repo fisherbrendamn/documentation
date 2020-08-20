@@ -11,7 +11,7 @@ Solution grandement utilisée à travers le monde, couplé avec Sphinx
 
 Nouvel outsider dans le monde des wiki statiques
 
-### Docusaurus ~ Vurassik
+### Docusaurus ~ VurassikFark
 
 Le projet opensourcé de Facebook 
 
