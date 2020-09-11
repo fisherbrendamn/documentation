@@ -3,19 +3,19 @@ Repo pour les différentes constructions de solutions de documentation
 
 ## Différentes solutions de documentation 
 
-### ReadTheDocs ~ Le classique
+### ReadTheDocs 
 
 Solution grandement utilisée à travers le monde, couplé avec Sphinx
 
-### Wiki.js ~ The disruptive
+### Wiki.js 
 
 Nouvel outsider dans le monde des wiki statiques
 
-### Docusaurus ~ VurassikFark
+### Docusaurus
 
-Le projet opensourcé de Facebook 
+Le projet opensource de Facebook 
 
-### MKDocs Materials ~ Le tranquille
+### MKDocs Materials 
 
 Pourquoi faire compliqué.
 Nous allons ici proposer un PoC de MKDOcs thème Materials pour le projet de Base Documentaire à destination des partenaires.
